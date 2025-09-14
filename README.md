@@ -23,6 +23,7 @@ I'm a Bachelor of Science in Information Technology (BSIT) student at NUML (Nati
 
 ## 🔗 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/muhammad-haider-049306240/)
+- Email: iamhaider072@gmail.com
 
 ## 💼 What I Do
 I specialize in developing full-stack applications with a focus on:
@@ -33,4 +34,4 @@ I specialize in developing full-stack applications with a focus on:
 
 ---
 
-Feel free to reach out for collaborations or discussions about technology and development!
+
